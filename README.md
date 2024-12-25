@@ -1,4 +1,3 @@
-```markdown
 # SantaSentimentAnalyzer
 
 A festive sentiment analysis web application built using Streamlit, designed to analyze the sentiment of Christmas-related messages. The application classifies messages as Positive, Negative, or Neutral based on the sentiments expressed. This project is perfect for a fun holiday-themed sentiment analysis application.
