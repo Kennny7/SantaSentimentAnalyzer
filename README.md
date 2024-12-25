@@ -18,7 +18,7 @@ SantaSentimentAnalyzer/
 │
 ├── ui/
 │   ├── app.py                 # Streamlit app to display sentiment analysis results
-│   ├── static/                # Static files for the Streamlit app (optional)
+│   ├── static/                # Static files for the Streamlit app (for future add-ons)
 │   ├── __init__.py
 │
 ├── README.md                  # Project documentation
