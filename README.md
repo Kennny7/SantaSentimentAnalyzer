@@ -87,4 +87,3 @@ Feel free to fork the repository, submit issues, or make pull requests to enhanc
 If you have any questions, feel free to reach out to me through my GitHub profile: [@Kennny7](https://github.com/Kennny7).
 
 Happy Holidays! 🎄🎅
-```
